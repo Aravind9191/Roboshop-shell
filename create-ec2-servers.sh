@@ -2,7 +2,7 @@
 
 ##### Change these values ###
 ZONE_ID="Z002749536M8LKHPUPL8G"
-DOMAIN=" leeladevops.com"
+DOMAIN=" leeladevops.online"
 SG_NAME="launch-wizard-1"
 #############################
 

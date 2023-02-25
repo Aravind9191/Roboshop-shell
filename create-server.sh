@@ -3,7 +3,7 @@
 ##### Change these values ###
 ZONE_ID="Z002749536M8LKHPUPL8G"
 DOMAIN="leeladevops.online"
-SG_NAME="Allow-all"
+SG_NAME="Allow all"
 #############################
 
 
